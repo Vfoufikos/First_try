@@ -2,18 +2,18 @@
 
 This is my first programm and res
 
-##Open
+## Open
 
 It opens with any text editor
 
-#Purpose
+## Purpose
 
 I create it so as to try
 1. Markdown
 2. how github works
 3. Learn
 
-#Licence
+## Licence
 
 MIT Licence 
 Copyright (c) 2017 Vfoufikos
