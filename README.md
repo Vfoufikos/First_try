@@ -9,9 +9,8 @@ It opens with any text editor
 ## Purpose
 
 I create it so as to try
-1. Markdown
+1. [Markdown Online Writer] (https://dillinger.io/)
 2. how github works
-3. Learn
 
 ## Licence
 
