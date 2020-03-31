@@ -1,7 +1,7 @@
 # First_try
 
 This is my first programm and res
-
+ and i make a change
 ## Open
 
 It opens with any text editor
